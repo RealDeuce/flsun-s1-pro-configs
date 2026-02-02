@@ -1,0 +1,7 @@
+certs
+comms
+database
+gcodes
+logs
+systemd
+tools/klipper_estimator/klipper_estimator_rpi
