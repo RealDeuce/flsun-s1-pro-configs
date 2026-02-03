@@ -4,7 +4,7 @@
   "minimum_cruise_ratio": 0.5,
   "square_corner_velocity": 5.0,
   "instant_corner_velocity": 1.0,
-  "mm_per_arc_segment": 1.0,
+  "mm_per_arc_segment": 0.5,
   "move_checkers": [
     {
       "axis_limiter": {
