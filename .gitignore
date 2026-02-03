@@ -5,3 +5,4 @@ gcodes
 logs
 systemd
 tools/klipper_estimator/klipper_estimator_rpi
+config/.moonraker.conf.bkp
